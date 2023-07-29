@@ -4,4 +4,7 @@ this is project
 body{
 font-size : 30px
 width : 200px
+text-align : center
 }
+
+
